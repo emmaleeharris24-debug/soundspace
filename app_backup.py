@@ -1,0 +1,7 @@
+print("Welcome to SoundSpace!")
+print("Your new home for music discovery.")
+print("Discover artists. Explore genre. Find your sound.")
+favorite_artist =input("Who is your favorite artist? ")
+print("That's a great choice! ")
+favorite_genre = input("What is your favorite music genre? ")
+print(f"Awesome! {favorite_artist} is a fantastic {favorite_genre} artist.")
